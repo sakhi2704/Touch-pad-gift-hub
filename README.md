@@ -1,5 +1,4 @@
-# Touch-pad-gift-hub
-Sejarah touchpad gifthub
+# Sejarah Touchpad
 Sejarah touchpad tak terlepas dari kemunculan ide komputer portable yng dicetuskan oleh Alan Kay di Xerox PARC pada 1970. Sejak era itu, ide ini terus dikembangkan menjadikan lantas didapati ide bagi atau bisa juga dikatakan untuk menambahkan piranti alternatif mouse ke dalam computer portable.
 Tepatnya pada 1983, komputer portable yng diklaim menjdai laptop pertama dikenalkan di pasar dunia. Sejak era itu, teknologi ini terus berkembang sampai-sampai lantas touchpad mempunyai fitur bagi atau bisa juga dikatakan untuk mengenali goresan pena semisal yng kita kenal saat ini ini.
 Pada awal kemunculannya, touchpad ditujukan cuma menjdai alternatif mouse pada area kerja yng sempit. Teknologi ini pertama kali dipakai pada personal komputer Apollo. Disaat ide perihal komputer portable ini muncul, touchpad lantas mulai diaplikasikan pada perangkat komputer portable yng lebih dikenal yang dengannya nama laptop.
